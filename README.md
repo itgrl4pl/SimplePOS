@@ -1,0 +1,1 @@
+<p>This is a SimplePOS or point of sale, program is a device that enables a computer-based cash register with software capable of tallying up orders, taking payments, monitoring inventory and buying trends, creating invoices, and collecting marketing data.</p>
